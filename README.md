@@ -54,5 +54,13 @@ El **churn** representa la probabilidad de que un cliente abandone el servicio.
 | Maven | Build |
 
 ---
+## 🔮 Lógica de Predicción
 
-## 🏗️ Arquitectura
+El sistema evalúa variables como:
+
+- Retrasos en pagos  
+- Tickets de soporte  
+- Uso del servicio  
+- Antigüedad  
+- Tipo de plan  
+
